@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Zul",
+        "price": "32.99",
+        "image": "image/img_4544.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Mú",
+        "price": "12.99",
+        "image": "image/soap.jpeg"
+    }
+]

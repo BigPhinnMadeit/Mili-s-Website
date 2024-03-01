@@ -1,0 +1,36 @@
+.img{
+    margin-left: 300px;
+}
+ul li{
+    display: inline;
+    margin-left: 200px;
+}
+h2 {
+    margin-left: 650px;
+    width: 800px;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    column-gap: 60px;
+}
+p{
+    margin: 0 auto;
+    margin-left: 300px;
+    width: 800px;
+}
+h3 {
+    margin-left: 650px;
+    width: 800px;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    column-gap: 60px;
+}
+p li{
+    margin-left: 650px;
+    width: 800px;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    column-gap: 60px;
+}

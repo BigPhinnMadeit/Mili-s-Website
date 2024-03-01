@@ -1,0 +1,20 @@
+body{
+    background-image: url(logo.jpeg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-attachment: fixed;
+    top: left;
+}
+h2 {
+    margin-left: 650px;
+    width: 800px;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    column-gap: 60px;
+}
+p{
+    margin: 0 auto;
+    margin-left: 300px;
+    width: 800px;
+}
